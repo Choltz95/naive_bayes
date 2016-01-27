@@ -1,0 +1,1 @@
+Implement naive bayes with Dirichlet smoothing for the adult income dataset. Plot classification error on the dev set as a function of alpha, and report the performance of the best alpha on the test set.
